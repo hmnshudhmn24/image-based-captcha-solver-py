@@ -27,6 +27,3 @@ To predict a CAPTCHA:
 python captcha_solver.py
 ```
 Modify `test_captcha.png` with the path to your test image.
-
-## License
-This project is open-source and free to use.
